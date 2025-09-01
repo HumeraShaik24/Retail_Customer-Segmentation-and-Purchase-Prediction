@@ -119,7 +119,7 @@ Made with 💻, 📊, and a passion for data.
 
 ## 👩‍💻 About Me
 Humera Shaik
-📊 Data Analyst | 🎯 Forecasting & Insight Generation | 🤖 AI Tools Explorer
+📊 Data Analyst >> Aspiring Data Scientist | 🎯 Forecasting & Insight Generation | 🤖 AI Tools Explorer
 
 📧 Email: humerah610@gmail.com
 
